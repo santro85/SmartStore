@@ -123,6 +123,20 @@ a{
   border-color: transparent;
 }
 
+.cross-icon {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  padding: 2px 15px 0 10px;
+}
+
+.a-icon-close {
+  opacity: .64;
+  width: 10px;
+  height: 9px;
+  background-position: -297px -5px;
+}
+
 /*--------Landing page Offer Banners-----------------------*/
 
 .banner-chicklets {
